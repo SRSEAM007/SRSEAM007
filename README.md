@@ -15,6 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![snake gif](https://github.com/SRSEAM007/SRSEAM007/blob/output/github-snake-dark.svg)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SRSEAM007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
